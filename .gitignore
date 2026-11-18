@@ -1,0 +1,19 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Visual Studio Code
+.vscode/
+
+# Betriebssystemdateien
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Temporäre Dateien
+*.tmp
+*.temp
+*.log
+*~
